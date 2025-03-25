@@ -206,6 +206,7 @@ a {
     color: #000339;
 }
 
+/* luu y */
 .guides .sub-title::before {
     position: absolute;
     top: -10px;
@@ -629,7 +630,7 @@ a {
     background: #f9f9f9;
 }
 
-.footer .social-link + .social-link {
+.footer .social-link+.social-link {
     margin-left: 16px;
 }
 
